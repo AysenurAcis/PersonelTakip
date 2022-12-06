@@ -1,0 +1,11 @@
+C:\Users\aysen\OneDrive\Dersler-2\Görsel Programlama\1\PersonelTakip\PersonelTakip\bin\Debug\PersonelTakip.exe.config
+C:\Users\aysen\OneDrive\Dersler-2\Görsel Programlama\1\PersonelTakip\PersonelTakip\bin\Debug\PersonelTakip.exe
+C:\Users\aysen\OneDrive\Dersler-2\Görsel Programlama\1\PersonelTakip\PersonelTakip\bin\Debug\PersonelTakip.pdb
+C:\Users\aysen\OneDrive\Dersler-2\Görsel Programlama\1\PersonelTakip\PersonelTakip\obj\Debug\PersonelTakip.csproj.AssemblyReference.cache
+C:\Users\aysen\OneDrive\Dersler-2\Görsel Programlama\1\PersonelTakip\PersonelTakip\obj\Debug\PersonelTakip.csproj.SuggestedBindingRedirects.cache
+C:\Users\aysen\OneDrive\Dersler-2\Görsel Programlama\1\PersonelTakip\PersonelTakip\obj\Debug\PersonelTakip.Form1.resources
+C:\Users\aysen\OneDrive\Dersler-2\Görsel Programlama\1\PersonelTakip\PersonelTakip\obj\Debug\PersonelTakip.Properties.Resources.resources
+C:\Users\aysen\OneDrive\Dersler-2\Görsel Programlama\1\PersonelTakip\PersonelTakip\obj\Debug\PersonelTakip.csproj.GenerateResource.cache
+C:\Users\aysen\OneDrive\Dersler-2\Görsel Programlama\1\PersonelTakip\PersonelTakip\obj\Debug\PersonelTakip.csproj.CoreCompileInputs.cache
+C:\Users\aysen\OneDrive\Dersler-2\Görsel Programlama\1\PersonelTakip\PersonelTakip\obj\Debug\PersonelTakip.exe
+C:\Users\aysen\OneDrive\Dersler-2\Görsel Programlama\1\PersonelTakip\PersonelTakip\obj\Debug\PersonelTakip.pdb
