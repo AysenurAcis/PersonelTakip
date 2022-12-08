@@ -1,7 +1,7 @@
 # PersonelTakip
 
 ## Projenin Amacı <br>
-Personel takibi için oluşturulan uyulamadır<br>
+Personel takibi için oluşturulan uygulamadır<br>
 Kayıt Ekleme<br>
 Kayıt Silme<br>
 Kayıt Düzeltme<br>
